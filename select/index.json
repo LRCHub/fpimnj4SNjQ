@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "See U Later",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2025-12-01T03:41:08.224830Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "See U Later",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/01_See_U_Later_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SEE U LATER - Japanese Version",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/02_SEE_U_LATER_-_Japanese_Version_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SEE U LATER -JP ver.-",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/03_SEE_U_LATER_-JP_ver.-_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SEE U LATER",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/04_SEE_U_LATER_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SEE U LATER - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME-",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/05_SEE_U_LATER_-_JP_Ver.__BLACKPINK_2019-2020_WORLD_TOUR_IN_YOUR_AREA_-TOKYO_DOME-_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "See U Later (Japan Version / BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME-)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/06_See_U_Later_(Japan_Version___BLACKPINK_2019-2020_WORLD_TOUR_IN_YOUR_AREA_-TOKYO__BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "See U Later - Live",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/07_See_U_Later_-_Live_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "See U Later (Live)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/08_See_U_Later_(Live)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SEE U LATER -JP Ver.-",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/09_SEE_U_LATER_-JP_Ver.-_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "See U Later",
+      "artist": "BLACKPINK, Teddy",
+      "has_synced": true,
+      "path": "select/10_See_U_Later_BLACKPINK,_Teddy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SEE U LATER - BLACKPINK ARENA TOUR 2018 \"SPECIAL FINAL IN KYOCERA DOME OSAKA\"",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/11_SEE_U_LATER_-_BLACKPINK_ARENA_TOUR_2018__SPECIAL_FINAL_IN_KYOCERA_DOME_OSAKA_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "See U Later (Japan Version / BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME-)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/12_See_U_Later_(Japan_Version___BLACKPINK_2019-2020_WORLD_TOUR_IN_YOUR_AREA_-TOKYO__BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "See U Later",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/13_See_U_Later_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "See U Later",
+      "artist": "Lithe",
+      "has_synced": false,
+      "path": "select/14_See_U_Later_Lithe.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I SEE U LATER",
+      "artist": "Harry Nach",
+      "has_synced": false,
+      "path": "select/15_I_SEE_U_LATER_Harry_Nach.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I SEE U LATER",
+      "artist": "Harry Nach",
+      "has_synced": false,
+      "path": "select/16_I_SEE_U_LATER_Harry_Nach.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "See You",
+      "artist": "Superfly",
+      "has_synced": false,
+      "path": "select/pl_01_See_You_Superfly.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Seesaw",
+      "artist": "Superfly",
+      "has_synced": false,
+      "path": "select/pl_02_Seesaw_Superfly.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "See you again",
+      "artist": "Superfly",
+      "has_synced": false,
+      "path": "select/pl_03_See_you_again_Superfly.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "SEE YOU",
+      "artist": "Superfly",
+      "has_synced": false,
+      "path": "select/pl_04_SEE_YOU_Superfly.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "See ya!!",
+      "artist": "Superfly",
+      "has_synced": false,
+      "path": "select/pl_05_See_ya!!_Superfly.txt"
+    }
+  ]
+}
